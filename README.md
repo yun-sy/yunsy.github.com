@@ -1,2 +1,2 @@
-# yunsy.github.com
+# yun-sy.github.com
 My website
