@@ -1,0 +1,22 @@
+
+html {
+	background-color: #b3cccc;
+	font-family: Arial, sans-serif;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    color: #333333;
+   }
+
+h3 {font-style: normal;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: georgia,serif;
+}
+
+.row {
+	width : 750px;
+
+}
